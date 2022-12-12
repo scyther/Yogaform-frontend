@@ -1,0 +1,12 @@
+.App {
+  height: 100vh;
+  width: 100%;
+}
+.content {
+  background-color: "whitesmoke";
+  width: 100%%;
+}
+
+.main {
+  height: 70%;
+}
